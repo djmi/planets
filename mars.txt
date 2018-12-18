@@ -1,6 +1,5 @@
 Hello world -- of mars.
 
-THis is a new line.
-
 Heloo Mars.
+More of the same.
 
